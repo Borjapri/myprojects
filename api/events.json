@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ConferenciaDeTecnologia",
+    "name": "Conferencia de Tecnología 2024",
+    "date": "2024-11-15",
+    "location": "Bilbao, España",
+    "attendees": 250,
+    "description": "Un evento anual que reúne a expertos en tecnología para discutir las últimas tendencias y avances en el sector.",
+    "category": "Conferencia"
+  },
+  {
+    "id": "WorkshopReactAvanzado",
+    "name": "Workshop de React Avanzado",
+    "date": "2024-12-02",
+    "location": "Madrid, España",
+    "attendees": 80,
+    "description": "Taller intensivo sobre React, cubriendo temas avanzados como el manejo de estado, optimización de rendimiento y testing.",
+    "category": "Taller"
+  },
+  {
+    "id": "HackathonStartupWeekend",
+    "name": "Hackathon Startup Weekend",
+    "date": "2025-01-10",
+    "location": "Barcelona, España",
+    "attendees": 150,
+    "description": "Un fin de semana de desarrollo intensivo donde los participantes crean prototipos de nuevas ideas de startups.",
+    "category": "Hackathon"
+  },
+  {
+    "id": "NetworkingDesarrolladores",
+    "name": "Networking para Desarrolladores",
+    "date": "2024-11-25",
+    "location": "Sevilla, España",
+    "attendees": 120,
+    "description": "Evento de networking para desarrolladores de software y emprendedores en tecnología.",
+    "category": "Networking"
+  }
+]

@@ -1,0 +1,37 @@
+.single_event small {
+  display: block;
+}
+.single_event_button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  border-radius: 10px;
+  border: solid 1px black;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.single_event_buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.single_event_button:hover {
+  color: white;
+  border: solid 2px black;
+  transform: scale(1.1);
+}
+
+.delete_button:hover {
+  background-color: red;
+}
+
+.event_navigation_link {
+  text-decoration: none;
+  color: black;
+}
+
+.go_to_event_button:hover {
+  background-color: rgb(66, 66, 230);
+}
